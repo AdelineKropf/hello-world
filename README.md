@@ -1,2 +1,4 @@
 # hello-world
-This repository is for the hello world tutorial on Github
+My name is Adeline Kropf. 
+My favorite NHL Hockey team is the Minnesota Wild.
+One of my favorite singers is Hozier.
